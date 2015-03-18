@@ -2,6 +2,7 @@
 
 
 I love science, technologies and programming. I can learn and use new technologies which I proved during my 12 weeks MakecrsAcadmy course. I used to solve many problems before my course and worked in extremly stressful environemnt running different kind of risk and responsibilities.
+
 I would like to work in organisation full of energetic people who are happy to explore, test and deliver new technological solutions.
 
 
@@ -22,6 +23,10 @@ I did my final projects (with my colleagues) in js.
 It was a full stack js application using Cordvoa (js framework for mobile applications), node.js and spotify API.
 I managed to create an android app which was using its connection to Beacon to trigger some other actions on the server side and Spotify.
 We did it in just 10 days.
+
+### TDD,BDD
+
+I learned a lot about test driven development during my course which also a totally new concept to me and I know how to use different testing tools during programming process.
 
 ### Python
 
