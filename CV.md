@@ -16,6 +16,7 @@ I worked in finance for the last few years running some substantial risk positio
 
 I learned Ruby during MA course, its OOP structure and some subjects which were brand new to me;
 especially I liked metaprogramming which opens new possibilities.
+I did some Ruby full stack projects during MA course including chitter (as a weekend challenge) which was some kind of twitter clone.
 
 ### Javascript
 
@@ -24,9 +25,9 @@ It was a full stack js application using Cordvoa (js framework for mobile applic
 I managed to create an android app which was using its connection to Beacon to trigger some other actions on the server side and Spotify.
 We did it in just 10 days.
 
-### TDD,BDD
+### TDD,BDD,pair programming
 
-I learned a lot about test driven development during my course which also a totally new concept to me and I know how to use different testing tools during programming process.
+I learned a lot about test driven development during my course which also a totally new concept to me and I know how to use different testing tools during programming process. I used to pair program a lot and it worked well for me.
 
 ### Python
 
