@@ -27,7 +27,7 @@ We did it in just 10 days.
 
 ### TDD,BDD,pair programming
 
-I learned a lot about test driven development during my course which also a totally new concept to me and I know how to use different testing tools during programming process. I used to pair program a lot and it worked well for me.
+I learned a lot about test driven development during my course which was also a totally new concept to me and I know how to use different testing tools during programming process. I used to pair program a lot and it worked well for me.
 
 ### Python
 
@@ -47,7 +47,7 @@ I used to program in C and C++ during my studies which I am sure need to be refr
  - math in finance as part of year 4 program
 
 ### Hobbies
- - Science and programming (going to different meetups like neo4js to learn more)
+ - Science and programming (going to different meetups like neo4js, unity3d to learn more)
  - Photography
  - free diving
  
