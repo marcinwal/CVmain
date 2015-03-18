@@ -47,7 +47,7 @@ I used to program in C and C++ during my studies which I am sure need to be refr
  - math in finance as part of year 4 program
 
 ### Hobbies
- - Science and programming
+ - Science and programming (going to different meetups like neo4js to learn more)
  - Photography
  - free diving
  
