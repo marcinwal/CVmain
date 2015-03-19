@@ -10,19 +10,19 @@ I would like to work in organisation full of energetic people who are happy to e
 
 ### Work in stressful environment
 
-I worked in finance for the last few years running some substantial risk positions in much less friendly organisational framworks compared to developers world which I love. I was responsible for a team of 5-8 people I worked in challenging environment and delivered given goals. I was responisble for Emerging Markets trading unit(Fixed Income and FX).
+I worked in finance for the last few years running some substantial risk positions in much less friendly organisational framworks compared to developers world which I love. I was responsible for a team of 5-8 people. I worked in challenging environment and delivered given goals. I was responisble for Emerging Markets trading unit(Fixed Income and FX).
 
 ### Ruby
 
 I learned Ruby during MA course, its OOP structure and some subjects which were brand new to me;
-especially I liked metaprogramming which opens new possibilities.
+I liked metaprogramming which opened new possibilities and I plan to explore it deeper.
 I did some Ruby full stack projects during MA course including chitter (as a weekend challenge) which was some kind of twitter clone.
 
 ### Javascript
 
 I did my final projects (with my colleagues) in js.
 It was a full stack js application using Cordvoa (js framework for mobile applications), node.js and spotify API.
-I managed to create an android app which was using its connection to Beacon to trigger some other actions on the server side and Spotify.
+I managed to create an android app which was using its connection to Beacon to trigger some other actions on the server side and Spotify. It was my first ever mobile app built. I learned all the technics on the fly as we were moving on with our project.
 We did it in just 10 days.
 
 ### TDD,BDD,pair programming
