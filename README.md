@@ -21,7 +21,7 @@ I did some Ruby full stack projects during MA course including chitter (as a wee
 ### Javascript
 
 I did my final projects (with my colleagues) in js.
-It was a full stack js application using Cordvoa (js framework for mobile applications), node.js and spotify API.
+It was a full stack js application using Cordvoa (js framework for mobile applications), node.js and spotify API (link to our final presentation https://www.youtube.com/watch?v=vVipQomTmZY).
 I managed to create an android app which was using its connection to Beacon to trigger some other actions on the server side and Spotify. It was my first ever mobile app built. I learned all the technics on the fly as we were moving on with our project.
 We did it in just 10 days.
 
