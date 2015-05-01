@@ -10,7 +10,7 @@ I would like to work in organisation full of energetic people who are happy to e
 
 ### Work in stressful environment
 
-I worked in finance for the last few years running some substantial risk positions in much less friendly organisational framworks compared to developers world which I love. I was responsible for a team of 5-8 people. I worked in challenging environment and delivered given goals. I was responisble for Emerging Markets trading unit(Fixed Income and Foreign Exchange).
+I worked in finance for the last few years running some substantial risk positions. I was responsible for a team of 5-8 people. I worked in challenging environment and delivered given goals. I was responisble for Emerging Markets trading unit(Fixed Income and Foreign Exchange).
 
 ### Ruby
 
