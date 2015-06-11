@@ -54,4 +54,8 @@ I used to program in C and C++ during my studies which I am sure need to be refr
 ### Other achievements
  - Climbed Mount Blanc (during summer season)
  
+### Work experience
+- Unicredit London - Director - Head of CEE Interest rates and FX 2004-2014 (Vienna and London since 2010)
+- BPH Bank Poland - Head of Interest Dervivative Unit             2001-2004
+- BRE Bank Poland - Trader                                        1998-2001
 
